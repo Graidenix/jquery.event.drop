@@ -1,0 +1,23 @@
+{
+  "name": "jquery.event.drop",
+  "version": "2.2.2",
+  "description": "Drop events for jQuery, from https://github.com/threedubmedia/jquery.threedubmedia",
+  "main": "jquery.event.drop.live.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/threedubmedia/jquery.threedubmedia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/threedubmedia/jquery.threedubmedia/issues"
+  },
+  "author": "threedubmedia <grigore@odajiu.eu>",
+  "keywords": [
+    "jquery",
+    "event",
+    "drag",
+    "drop",
+    "threedubmedia"
+  ],
+  "license": "MIT",
+  "homepage": "http://threedubmedia.com"
+}
